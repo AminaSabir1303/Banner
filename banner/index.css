@@ -1,0 +1,44 @@
+body{
+    background-image: url("banner.jpg");
+    background-size: cover;
+}
+.sign-up{
+    background-color: white;
+    width: 500px;
+    height: 550px;
+    margin-left: 403px;
+    margin-top: 110px;
+}
+.Birth{
+    border-radius: 15px;
+    background-color: lightgrey;
+    padding-right: 141px;
+    margin-left: 10px;
+    height: 25px;
+    border: 1px solid lightgrey;
+    width: 321px;
+    padding-left: 15px;
+}
+.button{
+    margin-left: 10px;
+    width: 480px;
+    height: 40px;
+    background-color: black;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    color: white;
+    margin-bottom: 50px;
+}
+.form{
+    margin-left: 15px;
+    font-weight: bold;
+}
+.hr{
+    height: 1px;
+    background-color: white;
+    width: 460px;
+}
+.sign{
+    margin-left: 190px;
+    font-weight: bold;
+}
